@@ -1,6 +1,6 @@
 {
   "name": "@zhangyx1998/claude-resume",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Auto resume claude code session at scheduled time",
   "type": "module",
   "private": true,
